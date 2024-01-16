@@ -1,0 +1,62 @@
+The voting integration feature allows you to connect the mod to any supported voting platform and let viewers vote for effects that occur in the mod through the chat.
+
+If enabled there should have a big red text displaying "Voting Enabled!" on startup.
+Should any issues occur an error popup with specifics should pop up along with instructions on how to resolve it.
+The log of the voting proxy process is stored in chaosmod/chaosproxy.log. This file is never cleared so you might want to remove it and let the mod regenerate the file should it get too big.
+
+
+-- Enabling the feature --
+
+Start the config utility and go to the Voting tab (or Twitch tab if you are on a mod version below v2.0). Read the text at the top and tick the checkbox below it.
+
+You will have to enable and set up one of the supported voting platforms inside the Voting tab.
+
+
+-- Twitch --
+
+You will have to enter your Twitch channel name, the username of the account *with mod rights* you want to use for chat messages, and an OAuth token (using a tool like https://twitchapps.com/tmi/).
+
+-- Discord --
+
+Discord voting requires you to create your own bot account. This is done as follows:
+
+- Visit https://discord.com/developers/applications and create a new application.
+
+- In the application page click on the Bot page
+
+- Copy the token mentioned under the username. You might have to click on the "Reset Token" button to view it
+
+- Enter the bot token in the config utility
+
+- Go to the OAuth2 page. Under there go to URL Generator
+
+- In the table make sure "bot" is checked
+
+- A new table should appear, check "Send Messages" and "Use Slash Commands" under Text Permissions
+
+- Use the generated URL at the bottom to invite the bot to your server
+
+
+-- How it works --
+
+Viewers will be able to vote for one of the shown effects every time a voting round starts.
+
+For Twitch: Voting is done by typing one of the numbers shown either in the chat by the bot or on-screen (in-game or OBS overlay).
+For Discord: Same as above but using either the "/vote" or "/v" command rather than typing the number directly.
+
+Depending on if you enabled the proportional voting system:
+- If not, the effect with the most votes will be activated as soon as the timer bar is filled.
+- If yes, votes will affect the likelyhood of one of the shown effects activating instead and the mod will choose one of the effects at the end of the vote round.
+
+Viewers are able to change their vote in the current round by simply voting again.
+
+If the "Random Effect" option is enabled, viewers will be able to vote for a 4th option each voting round to let the mod choose a random effect itself.
+
+
+-- OBS Overlay --
+
+If you wish to use the OBS overlay, choose the "OBS Overlay" voting overlay option in the config utility first.
+
+Afterwards, add a new Browser Source in OBS itself, tick "Local file" and select the index.html file inside the twitchOverlay as the file.
+
+The overlay should be visible at the position of your choice once the mod is running and the first voting round starts.

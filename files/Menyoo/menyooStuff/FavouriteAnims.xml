@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PedAnims>
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity" name="li_dance_facedj_09_v1_female^3" />
+	<Anim dict="rcmjosh2" name="josh_sitting_loop" />
+	<Anim dict="rcmjosh2" name="stand_lean_back_idle" />
+	<Anim dict="amb@prop_human_seat_chair@female@legs_crossed@base" name="base" />
+	<Anim dict="amb@world_human_partying@female@partying_beer@idle_a" name="idle_a" />
+	<Anim dict="amb@world_human_picnic@female@idle_a" name="idle_a" />
+	<Anim dict="amb@world_human_picnic@female@idle_a" name="idle_c" />
+	<Anim dict="amb@world_human_sunbathe@female@back@idle_a" name="idle_a" />
+	<Anim dict="amb@world_human_sunbathe@female@front@idle_a" name="idle_a" />
+	<Anim dict="anim@amb@office@seating@female@var_d@base@" name="idle_a" />
+	<Anim dict="anim@amb@office@seating@female@var_a@base@" name="idle_a" />
+	<Anim dict="anim@amb@casino@out_of_money@ped_female@01a@idles" name="idle_a" />
+</PedAnims>

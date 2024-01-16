@@ -1,0 +1,6 @@
+You can add custom sounds to any effect you like!
+
+Simply open the config utility, go to the desired effect and click on the button next to it.
+The effect-specific options menu will pop up and will tell you where the sound file needs to be located to play it for that specific effect.
+
+Please note only .mp3 files are supported.

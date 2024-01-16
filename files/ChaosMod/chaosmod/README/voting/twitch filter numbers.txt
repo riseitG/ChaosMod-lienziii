@@ -1,0 +1,10 @@
+As a viewer you are able to filter the numbers for voting in the chat by using FrankerFaceZ.
+
+If you don't have FrankerFaceZ yet download it from here: https://www.frankerfacez.com/
+
+Afterwards open up the FrankerFaceZ Control Center and go to Chat -> Filtering -> Block.
+Add the following in the "Add a new term" textbox: ^[1-8]$
+Change the "Text" option to "Regex".
+Make sure "Match Whole Words" and "Remove matching messages from chat" (bin icon) are checked.
+
+Now simply click on "Add" and all numbers from 1 to 8 should be hidden for you inside chat.

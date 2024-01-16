@@ -1,0 +1,28 @@
+Chaos Mod v2.0.1
+
+[00:00:00] (Memory.cpp) Running hooks
+[00:00:00] (Memory.cpp) Running rage::scrThread::Run hook
+[00:00:00] (Memory.cpp) Running rage::audRequestedSettings::SetPitch hook
+[00:00:00] (Memory.cpp) Running rage::audRequestedSettings::SetClearness hook
+[00:00:00] (Memory.cpp) Running _ApplyChangeSetEntryStub hook
+[00:00:34] (Memory.cpp) Running late hooks
+[00:00:34] (Memory.cpp) Running ShaderHook hook
+[00:00:34] (Main.cpp) Game Build: 2944
+[00:00:34] (Main.cpp) Parsing config files
+[00:00:34] (Main.cpp) Initializing mod splash texts handler component
+[00:00:34] (Main.cpp) Initializing workshop component
+[00:00:34] (Main.cpp) Initializing effect sound system component
+[00:00:34] (Main.cpp) Initializing meta modifier states component
+[00:00:34] (Main.cpp) Initializing Lua scripts component
+[00:00:34] (Main.cpp) Initializing effects dispatcher component
+[00:00:34] (Main.cpp) Initializing debug menu component
+[00:00:34] (Main.cpp) Initializing effect shortcuts handler component
+[00:00:34] (Main.cpp) Initializing key state handler component
+[00:00:34] (Main.cpp) Initializing voting component
+[00:00:34] (Main.cpp) Initializing Failsafe component
+[00:00:34] (Main.cpp) Initializing script help text queue component
+[00:00:34] (Main.cpp) Completed init
+[00:00:34] (Memory.cpp) Running IDXGISwapChain::Present hook
+[00:00:34] (Memory.cpp) Running MiscHooks hook
+[00:00:34] (Memory.cpp) Running _HandleToEntityStruct hook
+[00:00:34] (Memory.cpp) Running GetLabelText hook

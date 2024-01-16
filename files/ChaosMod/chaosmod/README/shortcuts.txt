@@ -1,0 +1,13 @@
+There are multiple keyboard shortcuts you can use in-game to do specific actions.
+
+All of those can be either disabled or enabled in the config utility.
+
+NOTE: The "+" in this case means "AND", you DON'T have to press the "+" key on your keyboard
+
+<CTRL + L> - Toggle Mod, also reloads config and removes (most) of the spawns (Enabled by default)
+
+<CTRL + -> - Clears all active effects and removes (most) of the spawns (Enabled by default)
+
+<CTRL + ,> - Opens a menu which allows you to activate any effect by yourself (Disabled by default, see effects_menu_readme.txt for more information)
+
+<CTRL + .> - Pause timer bar at the top (Disabled by default)

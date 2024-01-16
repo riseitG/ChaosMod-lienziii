@@ -1,0 +1,9 @@
+The effects menu (enableable in the config utility) allows you to turn to turn on any effect you desire.
+The effects are sorted in alphabetical order and effects disabled in the config utility are filtered out.
+
+Navigation:
+
+- Arrow Up / Down: Move up or down
+- Arrow Left / Right: Move to effect which starts with next / previous letter
+- Enter: Trigger effect
+- Backspace: Exit the menu

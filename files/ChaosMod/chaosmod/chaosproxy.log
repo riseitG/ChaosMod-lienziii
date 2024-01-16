@@ -1,0 +1,398 @@
+2024-01-16 17:51:07.273 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:51:07.282 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 17:51:07.282 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:51:07.294 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 17:51:07.295 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 17:51:07.305 +01:00 [FTL] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Twitch OAuth token is not set!
+2024-01-16 17:51:09.113 +01:00 [FTL] [TwitchChatVotingProxy.TwitchChatVotingProxy] Failed to initialize Twitch voting
+2024-01-16 17:52:55.156 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:52:55.162 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 17:52:55.162 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:52:55.171 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 17:52:55.171 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 17:52:55.175 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Trying to connect to twitch channel "riseit" with user "a"
+2024-01-16 17:52:55.227 +01:00 [FTL] [TwitchChatVotingProxy.TwitchChatVotingProxy] Failed to initialize Twitch voting
+Exception occured: $System.Exception: Twitch username does not appear to be valid. a
+   at TwitchLib.Client.Models.ConnectionCredentials..ctor(String twitchUsername, String twitchOAuth, String twitchWebsocketURI, Boolean disableUsernameCheck, Capabilities capabilities)
+   at TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver.Init()
+   at TwitchChatVotingProxy.TwitchChatVotingProxy.Main(String[] args)
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.111 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.111 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.111 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.110 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 17:53:03.111 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 17:56:44.460 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:56:44.468 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 17:56:44.468 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 17:56:44.477 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 17:56:44.478 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 17:56:44.482 +01:00 [FTL] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Twitch OAuth token is not set!
+2024-01-16 17:56:50.778 +01:00 [FTL] [TwitchChatVotingProxy.TwitchChatVotingProxy] Failed to initialize Twitch voting
+2024-01-16 18:01:18.491 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:01:18.500 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 18:01:18.500 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:01:18.509 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 18:01:18.510 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 18:01:18.515 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Trying to connect to twitch channel "riseit" with user "riseit"
+2024-01-16 18:01:19.657 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully connected to Twitch
+2024-01-16 18:01:19.969 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully joined Twitch channel "riseit"
+2024-01-16 18:01:19.969 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing controller
+2024-01-16 18:01:19.972 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Sending hello to mod
+2024-01-16 18:01:24.035 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Received hello_back from mod!
+2024-01-16 18:01:56.025 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Asking listeners for vote result
+2024-01-16 18:01:56.025 +01:00 [ERR] [] error occured
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TwitchChatVotingProxy.ChaosModController.OnGetVoteResult(Object sender, OnGetVoteResultArgs e)
+2024-01-16 18:01:56.032 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Vote result sent to pipe: 0
+2024-01-16 18:02:26.031 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Asking listeners for vote result
+2024-01-16 18:02:26.031 +01:00 [ERR] [] error occured
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TwitchChatVotingProxy.ChaosModController.OnGetVoteResult(Object sender, OnGetVoteResultArgs e)
+2024-01-16 18:02:26.038 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Vote result sent to pipe: 3
+2024-01-16 18:02:56.032 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Asking listeners for vote result
+2024-01-16 18:02:56.033 +01:00 [ERR] [] error occured
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TwitchChatVotingProxy.ChaosModController.OnGetVoteResult(Object sender, OnGetVoteResultArgs e)
+2024-01-16 18:02:56.039 +01:00 [DBG] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Vote result sent to pipe: 0
+2024-01-16 18:03:23.837 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:03:23.860 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Pipe disconnected, ending program.
+2024-01-16 18:05:34.785 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:05:34.794 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 18:05:34.794 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:05:34.804 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 18:05:34.805 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 18:05:34.810 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Trying to connect to twitch channel "riseit" with user "riseit"
+2024-01-16 18:05:35.964 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully connected to Twitch
+2024-01-16 18:05:36.268 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully joined Twitch channel "riseit"
+2024-01-16 18:05:36.268 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing controller
+2024-01-16 18:05:36.273 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Sending hello to mod
+2024-01-16 18:05:36.961 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Received hello_back from mod!
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Pipe disconnected, ending program.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.067 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.068 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.069 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Pipe is broken.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.065 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:17.066 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Pipe disconnected: Cannot access a closed pipe.
+2024-01-16 18:17:57.504 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:17:57.512 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 18:17:57.512 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:17:57.522 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 18:17:57.523 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 18:17:57.527 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Trying to connect to twitch channel "riseit" with user "riseit"
+2024-01-16 18:17:58.669 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully connected to Twitch
+2024-01-16 18:17:58.979 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully joined Twitch channel "riseit"
+2024-01-16 18:17:58.979 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing controller
+2024-01-16 18:17:58.981 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Sending hello to mod
+2024-01-16 18:19:27.286 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:19:27.292 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Starting chaos mod twitch proxy
+2024-01-16 18:19:27.292 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] ===============================
+2024-01-16 18:19:27.301 +01:00 [INF] [TwitchChatVotingProxy.ChaosPipe.ChaosPipeClient] Successfully connected to chaos mod pipe
+2024-01-16 18:19:27.301 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing Twitch voting
+2024-01-16 18:19:27.305 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Trying to connect to twitch channel "riseit" with user "riseit"
+2024-01-16 18:19:28.406 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully connected to Twitch
+2024-01-16 18:19:28.720 +01:00 [INF] [TwitchChatVotingProxy.VotingReceiver.TwitchVotingReceiver] Successfully joined Twitch channel "riseit"
+2024-01-16 18:19:28.720 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Initializing controller
+2024-01-16 18:19:28.723 +01:00 [INF] [TwitchChatVotingProxy.TwitchChatVotingProxy] Sending hello to mod

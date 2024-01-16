@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Loadout menyoo_ver="1.5.0">
+	<Weapon hash="0xd8df3c3c" tint="2">
+		<Components>
+			<Component hash="0x7af3f785" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xdfe37640" tint="0">
+		<Components>
+			<Component hash="0xe7939662" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x99b507ea" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x678b81b1" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x4e875f73" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x958a4a8f" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x440e4788" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x84bd7bfd" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xf9e6aa4b" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x92a27487" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xf9dcbf2d" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xdd5df8d9" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x8bb05fd7" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xcd274149" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x94117305" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x19044ee0" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x3813fc08" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x1b06d571" tint="2">
+		<Components>
+			<Component hash="0xd7391086" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xbfe256d4" tint="0">
+		<Components>
+			<Component hash="0x4f37df2a" livery="0x00000000" />
+			<Component hash="0x8ed4bb70" livery="0x00000000" />
+			<Component hash="0x21e34793" livery="0x00000000" />
+			<Component hash="0x43fd595b" livery="0x00000000" />
+			<Component hash="0x930cb951" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x5ef9fec4" tint="2">
+		<Components>
+			<Component hash="0xd67b4f2d" livery="0x00000000" />
+			<Component hash="0xc304849a" livery="0x00000000" />
+			<Component hash="0x359b7aae" livery="0x00000000" />
+			<Component hash="0xc6654d72" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x22d8fe39" tint="0">
+		<Components>
+			<Component hash="0x249a17d5" livery="0x00000000" />
+			<Component hash="0xc304849a" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x99aeeb3b" tint="2">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xbfd21232" tint="0">
+		<Components>
+			<Component hash="0x7b0033b3" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x88374054" tint="0">
+		<Components>
+			<Component hash="0xc111eb26" livery="0x00000000" />
+			<Component hash="0x4a4965f3" livery="0x00000000" />
+			<Component hash="0x47de9258" livery="0x00000000" />
+			<Component hash="0xaa8283bf" livery="0x00000000" />
+			<Component hash="0x441882e6" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xd205520e" tint="0">
+		<Components>
+			<Component hash="0x64f9c62b" livery="0x00000000" />
+			<Component hash="0xc304849a" livery="0x00000000" />
+			<Component hash="0x359b7aae" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x083839c4" tint="0">
+		<Components>
+			<Component hash="0x33ba12e8" livery="0x00000000" />
+			<Component hash="0xc304849a" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xdc4db296" tint="4">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xdb1aa450" tint="0">
+		<Components>
+			<Component hash="0xa9e9caf4" livery="0x00000000" />
+			<Component hash="0xc304849a" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xc1b3c3d1" tint="0">
+		<Components>
+			<Component hash="0xe9867ce3" livery="0x00000000" />
+			<Component hash="0x9493b80d" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xcb96392f" tint="0">
+		<Components>
+			<Component hash="0x0dc8ba3f" livery="0x00000000" />
+			<Component hash="0x049b2945" livery="0x00000000" />
+			<Component hash="0x359b7aae" livery="0x00000000" />
+			<Component hash="0x27077ccb" livery="0x00000000" />
+			<Component hash="0xd951e867" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x97ea20b8" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x3656c8c1" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x47757124" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xaf3696a1" tint="6">
+		<Components>
+			<Component hash="0xd7dbf707" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x917f6c8c" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x2b5ef5ec" tint="0">
+		<Components>
+			<Component hash="0x81786ca9" livery="0x00000000" />
+			<Component hash="0x9307d6fa" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x57a4368c" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x13532244" tint="0">
+		<Components>
+			<Component hash="0x10e6ba2b" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x2be6766b" tint="0">
+		<Components>
+			<Component hash="0x79c77076" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x78a97cd0" tint="0">
+		<Components>
+			<Component hash="0x0b5a715f" livery="0x00000000" />
+			<Component hash="0x3decc7da" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0xa564d78b" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0x399d558f" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xefe7e2df" tint="0">
+		<Components>
+			<Component hash="0xbb46e417" livery="0x00000000" />
+			<Component hash="0x9d2fbf29" livery="0x00000000" />
+			<Component hash="0xa73d4664" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x0a3d4d34" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xbd248b55" tint="0">
+		<Components>
+			<Component hash="0x937ed0b7" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x9d07f764" tint="0">
+		<Components>
+			<Component hash="0x82158b47" livery="0x00000000" />
+			<Component hash="0x3c00afed" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x7fd62962" tint="0">
+		<Components>
+			<Component hash="0xd6c59cd6" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xdbbd7280" tint="0">
+		<Components>
+			<Component hash="0x57ef1cc8" livery="0x00000000" />
+			<Component hash="0xc66b6542" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0xb5e2575b" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0xd703c94d" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x61012683" tint="0">
+		<Components>
+			<Component hash="0xeac8c270" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x476bf155" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xbfefff6d" tint="2">
+		<Components>
+			<Component hash="0xa73d4664" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+			<Component hash="0x4ead7533" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x394f415c" tint="0">
+		<Components>
+			<Component hash="0x63e0a098" livery="0x00000000" />
+			<Component hash="0x420fd713" livery="0x00000000" />
+			<Component hash="0xa73d4664" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0x5646c26a" livery="0x00000000" />
+			<Component hash="0xfc674d54" livery="0x00000012" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x83bf0278" tint="0">
+		<Components>
+			<Component hash="0xba62e935" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xfad1f1c9" tint="0">
+		<Components>
+			<Component hash="0x44032f11" livery="0x00000000" />
+			<Component hash="0xc66b6542" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x8b3c480b" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0xda55cd3f" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xaf113f99" tint="0">
+		<Components>
+			<Component hash="0x8ec1c979" livery="0x00000000" />
+			<Component hash="0xaa2c45b4" livery="0x00000000" />
+			<Component hash="0x837445aa" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xc0a3098d" tint="0">
+		<Components>
+			<Component hash="0x6b59aeaa" livery="0x00000000" />
+			<Component hash="0xa0d89c42" livery="0x00000000" />
+			<Component hash="0xa73d4664" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x969c3d67" tint="0">
+		<Components>
+			<Component hash="0x503dea90" livery="0x00000000" />
+			<Component hash="0xc66b6542" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0xf97f783b" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0x5218c819" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x7f229f94" tint="0">
+		<Components>
+			<Component hash="0xb3688b0f" livery="0x00000000" />
+			<Component hash="0xaa2c45b4" livery="0x00000000" />
+			<Component hash="0x837445aa" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x84d6fafd" tint="0">
+		<Components>
+			<Component hash="0x43621710" livery="0x00000000" />
+			<Component hash="0x3f3c8181" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x3bf26dc7" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0xc5e9ae52" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x624fe830" tint="0">
+		<Components>
+			<Component hash="0xc607740e" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x9d1f17e6" tint="0">
+		<Components>
+			<Component hash="0x684ace42" livery="0x00000000" />
+			<Component hash="0xaa2c45b4" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x837445aa" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x1d073a89" tint="0">
+		<Components>
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x555af99a" tint="0">
+		<Components>
+			<Component hash="0x3be4465d" livery="0x00000000" />
+			<Component hash="0x3f3c8181" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x5f7dce4d" livery="0x00000000" />
+			<Component hash="0x46411a1d" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x7846a318" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x9d61e50f" tint="0">
+		<Components>
+			<Component hash="0xa73d4664" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xe284c527" tint="0">
+		<Components>
+			<Component hash="0x86bd7f72" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xa89cb99e" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x3aabbbaa" tint="0">
+		<Components>
+			<Component hash="0x971cf6fd" livery="0x00000000" />
+			<Component hash="0xa73d4664" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xef951fbb" tint="0">
+		<Components>
+			<Component hash="0x29ea741e" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x12e82d3d" tint="0">
+		<Components>
+			<Component hash="0x0a19d08e" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x05a96ba4" tint="0">
+		<Components>
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x05fc3c11" tint="0">
+		<Components>
+			<Component hash="0xbc54da77" livery="0x00000000" />
+			<Component hash="0xa73d4664" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x0c472fe2" tint="0">
+		<Components>
+			<Component hash="0xd2443ddc" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x0a914799" tint="0">
+		<Components>
+			<Component hash="0x3be948f6" livery="0x00000000" />
+			<Component hash="0x2e43da41" livery="0x00000000" />
+			<Component hash="0x108ab09e" livery="0x00000000" />
+			<Component hash="0x6927e1a1" livery="0x00000000" />
+			<Component hash="0x6c32d2eb" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xc734385a" tint="0">
+		<Components>
+			<Component hash="0xccfd2ac5" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x837445aa" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0x6a6c02e0" tint="0">
+		<Components>
+			<Component hash="0xe14a9ed3" livery="0x00000000" />
+			<Component hash="0x5b1c713c" livery="0x00000000" />
+			<Component hash="0x9d65907a" livery="0x00000000" />
+			<Component hash="0x7bc4cddc" livery="0x00000000" />
+			<Component hash="0x68373ddc" livery="0x00000000" />
+			<Component hash="0x4db62abe" livery="0x00000000" />
+			<Component hash="0xb7a316da" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xa284510b" tint="0">
+		<Components>
+			<Component hash="0xaa2c45b4" livery="0x00000000" />
+			<Component hash="0x0c164f53" livery="0x00000000" />
+		</Components>
+	</Weapon>
+	<Weapon hash="0xb1ca77b1" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x42bf8a85" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x7f7497e5" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x6d544c99" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x63ab0442" tint="4">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x0781fe4a" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xb62d1f67" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x93e220bd" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xfdbc8a50" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x2c3731d9" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xab564b93" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x24b17070" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x060ec506" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x34a67b97" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x497facc3" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0x0787f0bb" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xba45e8b8" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xba536372" tint="0">
+		<Components />
+	</Weapon>
+	<Weapon hash="0xfbab5776" tint="0">
+		<Components />
+	</Weapon>
+</Loadout>
